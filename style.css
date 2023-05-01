@@ -48,3 +48,7 @@ img {
 section {
     margin-bottom: 50px;
 }
+
+table {
+    border: 2px solid #997711;
+}
