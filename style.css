@@ -39,3 +39,9 @@ img {
     float: right;
     padding: 1%;
 }
+
+.padding-lr20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
