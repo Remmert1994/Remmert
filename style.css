@@ -68,6 +68,9 @@ table {
 
 li {
     background: #eeeeee url(images/pokeball.png);
+    background-size: 3%;
+    background-repeat: no-repeat;
+    background-position: 1.5% center;
     box-shadow: 2px 2px 5px #666666;
     margin-bottom: 15px;
     padding: 2%;
