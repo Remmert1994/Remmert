@@ -1,5 +1,9 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
 body {
-    background: #fc9709 url(images/hintergrund.jpg);
+    background: #fc9709 url(images/hintergrund.jpg) fixed;
     margin: 0;
 }
 
