@@ -1,3 +1,7 @@
 body {
     background: #fc9709 url(images/hintergrund.jpg);
 }
+
+div {
+    background: white;
+}
