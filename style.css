@@ -56,4 +56,10 @@ table, th, td {
 
 table {
     width: 45%;
+    text-align: center;
+}
+
+.tabellenbehaelter {
+    display: flex;
+    justify-content: space-around;
 }
