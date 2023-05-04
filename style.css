@@ -59,7 +59,11 @@ ul {
 img {
     margin: auto;
     display: block;
+    width: 200px;
+    height: 200px;
 }
+
+
 
 @media (min-width: 576px){
     .tabellenbehaelter {
@@ -73,8 +77,17 @@ img {
     }
 
     img {
-        float: right;
         padding: 1%;
+    }
+
+    .bild {
+        float: right;
+    }
+
+    .logo {
+        float: center;
+        width: 400px;
+        height: 200px;
     }
 }
 
