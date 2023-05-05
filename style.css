@@ -5,6 +5,7 @@
 
 h1 {
     margin-top: 0;
+    font-size: large;
 }
 
 ul {
@@ -93,6 +94,10 @@ img {
         float: center;
         width: 400px;
         height: 200px;
+    }
+
+    h1 {
+        font-size: xx-large;
     }
 }
 
