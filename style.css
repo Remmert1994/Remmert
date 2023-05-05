@@ -13,7 +13,7 @@ ul {
     list-style-type: none;
 }
 
-h1, h2 {
+h1, h2, h3{
     background: #fc9709;
     color: white;
     text-align: center;
@@ -122,4 +122,6 @@ img {
         background-position: 1.5% center;
         padding-left: 6%;
     }
+
+
 }
