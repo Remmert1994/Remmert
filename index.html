@@ -16,6 +16,19 @@
 
             </p>
         </section>
+        <section>
+            <h2>Suchfeld mit Auswahlliste</h2>
+            <label for="pok">Pokemon:</label>
+            <select name="pokemon" id="pok">
+                <option value="arbok.html">Arbok</option>
+                <option value="pikachu.html">Pikachu</option>
+                <option value="raichu.html">Raichu</option>
+
+            </select>
+
+            <input type="button" value="suchen" onclick="location.href=(document.getElementById('pok').value)"/>
+            
+        </section>
     </div>
 </body>
 </html>
