@@ -29,6 +29,24 @@
             <input type="button" value="suchen" onclick="location.href=(document.getElementById('pok').value)"/>
             
         </section>
+        <section>
+            <h2>Eure Pokemon wünsche</h2>
+            <form action="index.html" method="post" target="_self">
+                <div>
+                     <input type="email" name="email" placeholder="Please type your email" required/>
+                </div>
+
+                <div>
+                    <input type="text" name="pokemonName" minlength="2" placeholder="please write a pokemon"/> 
+                </div>
+
+                <div>
+                    <textarea name="message" placeholder="Ihre Nachricht"></textarea>
+                </div>
+
+                <button type="submit">senden</button>
+            </form>
+        </section>
     </div>
 </body>
 </html>
